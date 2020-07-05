@@ -1,7 +1,6 @@
 ---
 # Multispectral Pedestrian Detection Resource
-A list of resouces for multispectral pedestrian detection,including the datasets,
-methods,annotations and tools.If you find that important resources are not included, please feel free to contact me.
+A list of resouces for multispectral pedestrian detection,including the datasets, methods, annotations and tools.
 
 ---
 ## Datasets
