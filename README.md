@@ -73,6 +73,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Borrow from Anywhere: Pseudo Multi-modal Object Detection in Thermal Imagery, 2019, Chaitanya Devaguptapu et al. [[PDF](https://arxiv.org/abs/1905.08789)]
 
+- Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks, ICIP 2020, Heng Zhang et al. [[PDF](https://hal.archives-ouvertes.fr/hal-02872132/file/icip2020.pdf)]
 
 ---
 ## Improved KAIST Annotations
