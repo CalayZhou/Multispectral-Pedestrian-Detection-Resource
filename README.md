@@ -15,6 +15,9 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 [[PDF](https://soonminhwang.github.io/rgbt-ped-detection/misc/CVPR15_Pedestrian_Benchmark.pdf)]
 [[Code](https://github.com/SoonminHwang/rgbt-ped-detection)]
 
+- Multispectral Pedestrian Detection using Deep Fusion Convolutional Neural Networks, 2016, Jörg Wagner et al.
+[[PDF](https://www.researchgate.net/publication/302514661_Multispectral_Pedestrian_Detection_using_Deep_Fusion_Convolutional_Neural_Networks)]
+
 - Multispectral Deep Neural Networks for Pedestrian Detection, 2016, Jingjing Liu et al.
 [[PDF](https://arxiv.org/abs/1611.02644)]
 [[Code](https://github.com/denny1108/multispectral-pedestrian-py-faster-rcnn)]
