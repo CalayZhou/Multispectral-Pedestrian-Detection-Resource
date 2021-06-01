@@ -90,6 +90,12 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Deep Active Learning from Multispectral Data Through Cross-Modality Prediction Inconsistency, ICIP2021, Heng Zhang et al. [[PDF](https://hal.archives-ouvertes.fr/hal-03236409/document)]
 
+- Spatio-Contextual Deep Network Based Multimodal Pedestrian Detection For Autonomous Driving, Kinjal Dasgupta et al. [[PDF](https://arxiv.org/abs/2105.12713)]
+
+- Uncertainty-Guided Cross-Modal Learning for Robust Multispectral Pedestrian Detection, IEEE Transactions on Circuits and Systems for Video Technology, Jung Uk Kim et al. [[PDF](https://ieeexplore.ieee.org/document/9419080)]
+
+- From handcrafted to deep features for pedestrian detection: a survey,IEEE Transactions on Pattern Analysis and Machine Intelligence, Jiale Cao et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9420291)]
+
 ---
 ## Improved KAIST Annotations
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
