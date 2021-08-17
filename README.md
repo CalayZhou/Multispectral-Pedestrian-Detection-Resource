@@ -86,6 +86,8 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Robust pedestrian detection in thermal imagery using synthesized images, ICPR 2020, My Kieu et al.[[PDF](https://arxiv.org/abs/2102.02005)]
 
+- Pixel Invisibility: Detecting Objects Invisible in Color Image, Yongxin Wang et al.[[PDF](https://arxiv.org/pdf/2006.08383.pdf)]
+
 - Guided Attentive Feature Fusion for Multispectral Pedestrian Detection, WACV 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf)]
 
 - Deep Active Learning from Multispectral Data Through Cross-Modality Prediction Inconsistency, ICIP2021, Heng Zhang et al. [[PDF](https://hal.archives-ouvertes.fr/hal-03236409/document)]
