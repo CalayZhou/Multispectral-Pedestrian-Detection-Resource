@@ -92,7 +92,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 ### 2021
 
-- Pixel Invisibility: Detecting Objects Invisible in Color Image, Yongxin Wang et al.[[PDF](https://arxiv.org/pdf/2006.08383.pdf)]
+- Pixel Invisibility: Detecting Objects Invisible in Color Image, 2021, Yongxin Wang et al.[[PDF](https://arxiv.org/pdf/2006.08383.pdf)]
 
 - Guided Attentive Feature Fusion for Multispectral Pedestrian Detection, WACV 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf)]
 
@@ -104,6 +104,13 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Cross-Modality Fusion Transformer for Multispectral Object Detection, 2021, Qingyun Fang et al. [[PDF](https://arxiv.org/pdf/2111.00273v2.pdf)]
 
+- Weakly Aligned Feature Fusion for Multimodal Object Detection, 2021, Lu Zhang et al.  [[PDF](https://ieeexplore.ieee.org/abstract/document/9523596)]
+
+- Attention Fusion for One-Stage Multispectral Pedestrian Detection, 2021, Zhiwei Cao et al. [[PDF](https://www.mdpi.com/1424-8220/21/12/4184)]
+
+- Multi-Modal Pedestrian Detection with Large Misalignment Based on Modal-Wise Regression and Multi-Modal IoU, 2021, Napat Wanchaitanawong et al. [[PDF](https://arxiv.org/pdf/2107.11196.pdf)]
+
+- MLPD: Multi-Label Pedestrian Detector in Multispectral Domain, 2021, Jiwon Kim et al. [[PDF](https://ieeexplore.ieee.org/document/9496129)]
 
 - [survey] From handcrafted to deep features for pedestrian detection: a survey, IEEE Transactions on Pattern Analysis and Machine Intelligence 2021, Jiale Cao et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9420291)]
 
