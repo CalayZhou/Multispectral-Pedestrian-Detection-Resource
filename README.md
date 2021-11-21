@@ -11,6 +11,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 ---
 ## Methods
 
+### before 2018
 - Multispectral Pedestrian Detection Benchmark Dataset and Baseline, 2015, Soonmin Hwang et al.
 [[PDF](https://soonminhwang.github.io/rgbt-ped-detection/misc/CVPR15_Pedestrian_Benchmark.pdf)]
 [[Code](https://github.com/SoonminHwang/rgbt-ped-detection)]
@@ -31,6 +32,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - Unified Multi-spectral Pedestrian Detection Based on Probabilistic Fusion Networks, 2017, Kihong Park et al.
 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320318300906)]
 
+### 2018
 - Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection, 2018, Dayan Guan et al.
 [[PDF](https://arxiv.org/abs/1802.09972)]
 [[Code](https://github.com/dayanguan/illumination-aware_multispectral_pedestrian_detection/)]
@@ -50,6 +52,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 [[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
 [[Project Link](https://li-chengyang.github.io/home/MSDS-RCNN/)]
 
+### 2019
 - Box-level Segmentation Supervised Deep Neural Networks for Accurate and Real-time Multispectral Pesdestrian Detecion, 2019, Yanpeng Cao et al.
 [[PDF](https://arxiv.org/abs/1902.05291)]
 [[Code](https://github.com/dayanguan/realtime_multispectral_pedestrian_detection)]
@@ -76,6 +79,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Borrow from Anywhere: Pseudo Multi-modal Object Detection in Thermal Imagery, 2019, Chaitanya Devaguptapu et al. [[PDF](https://arxiv.org/abs/1905.08789)]
 
+### 2020
 - Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks, ICIP 2020, Heng Zhang et al. [[PDF](https://hal.archives-ouvertes.fr/hal-02872132/file/icip2020.pdf)]
 
 - Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems, ECCV 2020, Kailai Zhou et al. [[PDF](https://arxiv.org/pdf/2008.03043.pdf)][[Code](https://github.com/CalayZhou/MBNet)]
