@@ -7,6 +7,9 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - [KAIST dataset](https://soonminhwang.github.io/rgbt-ped-detection/): The KAIST Multispectral Pedestrian Dataset consists of 95k color-thermal pairs (640x480, 20Hz) taken from a vehicle. All the pairs are manually annotated (person, people, cyclist) for the total of 103,128 dense annotations and 1,182 unique pedestrians. The annotation includes temporal correspondence between bounding boxes like Caltech Pedestrian Dataset. 
 - [CVC-14 dataset](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/): The CVC-14 dataset is composed by two sets of sequences. These sequences are named as the day and night sets,  which refers to the moment of the day they were acquired, and Visible and FIR depending the camera that was user to recor the sequences. For training 3695 images during the day, and 3390 images during night, with around 1500 mandatory pedestrian annotated for each sequence. For testing around 700 images for both sequences with around 2000 pedestrian during day, and around 1500 pedestrian during night.
 - [FLIR dataset](https://www.flir.cn/oem/adas/adas-dataset-form/): Synced annotated thermal imagery and non-annotated RGB imagery for reference. It should to noted that the infrared and RGB images are not aligned. The FLIR dataset has 10,228 total frames and 9,214 frames with bounding boxes(28151 Person, 46692 Car, 4457 Bicycle, 240 Dog, 2228 Other Vehicle).
+ 
+ In the original FLIR dataset, the thermal and visible images are not aligned. So Heng Zhang et al manually aligned the visible-thermal image pairs and end up with 4128 pairs for training and 1013 pairs for validation. The aligned version dataset can be downloaded here: https://drive.google.com/file/d/1xHDMGl6HJZwtarNWkEV3T4O9X4ZQYz2Y/view (This aligned dataset was firstly mentioned in Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks, ICIP 2020, Heng Zhang et al.)
+ 
 - [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/): This dataset contains 30976 images, or 15488 pairs, most of which were taken at very dark scenes, and all of the images are strictly aligned in time and space. Pedestrians in the dataset are labeled. We compare the dataset with other visible-infrared datasets and evaluate the performance of some popular visual algorithms including image fusion, pedestrian detection and image-to-image translation on the dataset.
 ---
 ## Methods
@@ -113,6 +116,11 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - MLPD: Multi-Label Pedestrian Detector in Multispectral Domain, 2021, Jiwon Kim et al. [[PDF](https://ieeexplore.ieee.org/document/9496129)]
 
 - [survey] From handcrafted to deep features for pedestrian detection: a survey, IEEE Transactions on Pattern Analysis and Machine Intelligence 2021, Jiale Cao et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9420291)]
+
+### 2022
+- Low-Cost Multispectral Scene Analysis With Modality Distillation, 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
+
+- Low-Cost Multispectral Scene Analysis With Modality Distillation, 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
 
 ---
 ## Improved KAIST Annotations
