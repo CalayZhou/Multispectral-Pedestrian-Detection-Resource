@@ -118,7 +118,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - [survey] From handcrafted to deep features for pedestrian detection: a survey, IEEE Transactions on Pattern Analysis and Machine Intelligence 2021, Jiale Cao et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9420291)]
 
 ### 2022
-- Low-Cost Multispectral Scene Analysis With Modality Distillation, 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
+- Low-Cost Multispectral Scene Analysis With Modality Distillation, WACV 2022, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
 
 
 
