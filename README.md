@@ -120,7 +120,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 ### 2022
 - Low-Cost Multispectral Scene Analysis With Modality Distillation, 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
 
-- Low-Cost Multispectral Scene Analysis With Modality Distillation, 2021, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
+
 
 ---
 ## Improved KAIST Annotations
