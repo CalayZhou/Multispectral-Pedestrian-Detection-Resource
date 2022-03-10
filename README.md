@@ -127,7 +127,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
  - Improved KAIST Training Annotations provided by Zhang et al.[Link to download](https://github.com/luzhang16/AR-CNN) 
 
-## Evaluation Criteria. [Link](https://eval.ai/web/challenges/challenge-page/1247/evaluation)  
+## [Evaluation Criteria](https://eval.ai/web/challenges/challenge-page/1247/evaluation)  
 Training Annotations:The KAIST Multispectral Pedestrian Dataset has three kinds of annotations for training. First, the original annotations were provided by Hwang et al. [1]. Second, the sanitized annotations were provided by Li et al. [2]. Lastly, the paired annotations were provided by Zhang et al. [3].
 
 Test Annotations:The sanitized annotations [2] are used in this challenge for evaluation. The sanitized annotations eliminate the annotation errors, including imprecise localization, misclassification and misaligned regions. The annotations are mostly used in recent works for evaluation, and therefore we also adopt the annotations to conduct a fair comparison.
