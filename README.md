@@ -120,6 +120,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 ### 2022
 - Low-Cost Multispectral Scene Analysis With Modality Distillation, WACV 2022, Heng Zhang et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Zhang_Low-Cost_Multispectral_Scene_Analysis_With_Modality_Distillation_WACV_2022_paper.html)]
 
+- Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection, IEEE Transactions on Multimedia 2022, Qing Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9739079)]
 
 
 ---
