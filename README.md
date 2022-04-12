@@ -12,7 +12,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
  
 - [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/): This dataset contains 30976 images, or 15488 pairs, most of which were taken at very dark scenes, and all of the images are strictly aligned in time and space. Pedestrians in the dataset are labeled. We compare the dataset with other visible-infrared datasets and evaluate the performance of some popular visual algorithms including image fusion, pedestrian detection and image-to-image translation on the dataset.
 
-- [Autonomous Vehicles dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/): Recently, researchers have actively conducted studies on mobile robot technologies that involve autonomous driving. To implement an automatic mobile robot (e.g., an automated driving vehicle) in traffic, robustly detecting various types of objects such as cars, people, and bicycles in various conditions such as daytime and nighttime is necessary. In this paper, we propose the use of multispectral images as input information for object detection in traffic. Multispectral images are composed of RGB images, near-infrared images, middle-infrared images, and far-infrared images and have multilateral information as a whole.
+- [Autonomous Vehicles dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/): A novel multispectral dataset was generated for autonomous vehicles that consists of RGB, NIR, MIR, and FIR images, which prepared 7,512 images in total(3,740 taken at daytime and 3,772 taken at nighttime).
 ---
 ## Methods
 
