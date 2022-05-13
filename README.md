@@ -124,6 +124,19 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection, IEEE Transactions on Multimedia 2022, Qing Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9739079)]
 
+- PIAFusion: A progressive infrared and visible image fusion network based on illumination aware, Information Fusion, Linfeng Tang et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S156625352200032X)]
+
+- Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy, Remote Sensing, Qingwang Wang et al. [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
+
+- Spatio-contextual deep network-based multimodal pedestrian detection for autonomous driving, IEEE Transactions on Intelligent Transportation Systems, Kinjal Dasgupta et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9706418)]
+
+- Robust Thermal Infrared Pedestrian Detection By Associating Visible Pedestrian Knowledge, ICASSP 2022, Sungjune Park et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9746886)]
+
+- Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, IEEE Transactions on Circuits and Systems for Video Technology, Yiming Sun. [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)] 
+
+- Towards Versatile Pedestrian Detector with Multisensory-Matching and Multispectral Recalling Memory, AAAI2022, Jung Uk Kim et al. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-8768.KimJ.pdf)]
+
+- Bispectral Pedestrian Detection Augmented with Saliency Maps using Transformer, VISIGRAPP 2022, Mohamed Amine Marnissi et al. [[PDF](https://pdfs.semanticscholar.org/bd9f/468d9f8c6b724ebb369eaf69a8c979f15209.pdf)]
 
 ---
 ## Improved KAIST Annotations
