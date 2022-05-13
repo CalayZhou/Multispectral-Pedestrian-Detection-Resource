@@ -124,7 +124,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection, IEEE Transactions on Multimedia 2022, Qing Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9739079)]
 
-- PIAFusion: A progressive infrared and visible image fusion network based on illumination aware, Information Fusion, Linfeng Tang et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S156625352200032X)]  [[PDF](https://github.com/Linfeng-Tang/PIAFusion)
+- PIAFusion: A progressive infrared and visible image fusion network based on illumination aware, Information Fusion, Linfeng Tang et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S156625352200032X)]  [[Code](https://github.com/Linfeng-Tang/PIAFusion)]
 
 - Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy, Remote Sensing, Qingwang Wang et al. [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
 
