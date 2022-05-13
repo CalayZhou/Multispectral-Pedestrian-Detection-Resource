@@ -132,7 +132,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Robust Thermal Infrared Pedestrian Detection By Associating Visible Pedestrian Knowledge, ICASSP 2022, Sungjune Park et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9746886)]
 
-- Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, IEEE Transactions on Circuits and Systems for Video Technology, Yiming Sun. [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)] 
+- Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning, IEEE Transactions on Circuits and Systems for Video Technology, Yiming Sun. [[PDF](https://ieeexplore.ieee.org/abstract/document/9759286)] [[Code](https://github.com/VisDrone/DroneVehicle)]
 
 - Towards Versatile Pedestrian Detector with Multisensory-Matching and Multispectral Recalling Memory, AAAI2022, Jung Uk Kim et al. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-8768.KimJ.pdf)]
 
