@@ -140,25 +140,25 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Attention-Guided Multi-modal and Multi-scale Fusion for Multispectral Pedestrian Detection, PRCV2022, Wei Bao et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_30)]
 
--Improving Rgb-Infrared Pedestrian Detection by Reducing Cross-Modality Redundancy, ICIP2022, Qingwang Wang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9897682)]
+- Improving Rgb-Infrared Pedestrian Detection by Reducing Cross-Modality Redundancy, ICIP2022, Qingwang Wang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9897682)]
 
--Attention-Based Cross-Modality Feature Complementation for Multispectral Pedestrian Detection, IEEE Access, Qunyan Jiang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9775119)]
+- Attention-Based Cross-Modality Feature Complementation for Multispectral Pedestrian Detection, IEEE Access, Qunyan Jiang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9775119)]
 
--DMFFNet: Dual-Mode Multi-Scale Feature Fusion-Based Pedestrian Detection Method,  IEEE Access, Ruizhe Hu et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9805743)]
+- DMFFNet: Dual-Mode Multi-Scale Feature Fusion-Based Pedestrian Detection Method,  IEEE Access, Ruizhe Hu et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9805743)]
 
--LGADet: Light-weight Anchor-free Multispectral Pedestrian Detection with Mixed Local and Global Attention, Neural Processing Letters, Xin Zuo et al. [[PDF](https://link.springer.com/article/10.1007/s11063-022-10991-7)]
+- LGADet: Light-weight Anchor-free Multispectral Pedestrian Detection with Mixed Local and Global Attention, Neural Processing Letters, Xin Zuo et al. [[PDF](https://link.springer.com/article/10.1007/s11063-022-10991-7)]
 
--Locality guided cross-modal feature aggregation and pixel-level fusion for multispectral pedestrian detection, Information Fusion, Yanpeng Cao et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253522000549)]
+- Locality guided cross-modal feature aggregation and pixel-level fusion for multispectral pedestrian detection, Information Fusion, Yanpeng Cao et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253522000549)]
 
--BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection, ICRA2022, Xiaoxiao Yang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9811999)]
+- BAANet: Learning Bi-directional Adaptive Attention Gates for Multispectral Pedestrian Detection, ICRA2022, Xiaoxiao Yang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9811999)]
 
--RGB-Thermal based Pedestrian Detection with Single-Modal Augmentation and ROI Pooling Multiscale Fusion, IGARSS2022, Jiajun Xiang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9883131)]
+- RGB-Thermal based Pedestrian Detection with Single-Modal Augmentation and ROI Pooling Multiscale Fusion, IGARSS2022, Jiajun Xiang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9883131)]
 
--MPDFF: Multi-source Pedestrian detection based on Feature Fusion, IGARSS2022, Lingxuan Meng et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9884864)]
+- MPDFF: Multi-source Pedestrian detection based on Feature Fusion, IGARSS2022, Lingxuan Meng et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9884864)]
 
--Modality-Independent Regression and Training for Improving Multispectral Pedestrian Detection, ICIVC2022, Han Ni et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9887331)]
+- Modality-Independent Regression and Training for Improving Multispectral Pedestrian Detection, ICIVC2022, Han Ni et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9887331)]
 
--Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection, ACM MM2022, Jin Xie et al. [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)]
+- Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection, ACM MM2022, Jin Xie et al. [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)]
 
 - Multimodal Object Detection via Probabilistic Ensembling, ECCV2022(oral), Yi-Ting Chen et al. [[PDF](https://arxiv.org/abs/2104.02904.pdf)] [[Code](https://github.com/Jamie725/Multimodal-Object-Detection-via-Probabilistic-Ensembling)]
 
