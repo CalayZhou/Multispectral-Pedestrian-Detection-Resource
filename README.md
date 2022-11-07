@@ -138,6 +138,8 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Bispectral Pedestrian Detection Augmented with Saliency Maps using Transformer, VISIGRAPP 2022, Mohamed Amine Marnissi et al. [[PDF](https://pdfs.semanticscholar.org/bd9f/468d9f8c6b724ebb369eaf69a8c979f15209.pdf)]
 
+- Multimodal Object Detection via Probabilistic Ensembling, ECCV2022(oral), Yi-Ting Chenet al. [[PDF](https://arxiv.org/abs/2104.02904.pdf)] [[Code](https://github.com/Jamie725/Multimodal-Object-Detection-via-Probabilistic-Ensembling)]
+
 ---
 ## Improved KAIST Annotations
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
