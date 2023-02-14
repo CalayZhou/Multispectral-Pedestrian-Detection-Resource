@@ -162,6 +162,10 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Multimodal Object Detection via Probabilistic Ensembling, ECCV2022(oral), Yi-Ting Chen et al. [[PDF](https://arxiv.org/abs/2104.02904.pdf)] [[Code](https://github.com/Jamie725/Multimodal-Object-Detection-via-Probabilistic-Ensembling)]
 
+
+### 2023
+-[survey] RGB-T image analysis technology and application: A survey, Engineering Applications ofArtificial Intelligence, Kechen Song et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0952197623001033)] 
+
 ---
 ## Improved KAIST Annotations
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
