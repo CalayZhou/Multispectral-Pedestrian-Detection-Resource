@@ -164,7 +164,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 
 ### 2023
--[survey] RGB-T image analysis technology and application: A survey, Engineering Applications ofArtificial Intelligence, Kechen Song et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0952197623001033)] 
+- [survey] RGB-T image analysis technology and application: A survey, Engineering Applications ofArtificial Intelligence, Kechen Song et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0952197623001033)] 
 
 ---
 ## Improved KAIST Annotations
