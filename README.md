@@ -162,6 +162,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Multimodal Object Detection via Probabilistic Ensembling, ECCV2022(oral), Yi-Ting Chen et al. [[PDF](https://arxiv.org/abs/2104.02904.pdf)] [[Code](https://github.com/Jamie725/Multimodal-Object-Detection-via-Probabilistic-Ensembling)]
 
+- Translation, Scale and Rotation Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection, ECCV2022, Yuan Maoxun et al. [[PDF](https://arxiv.org/abs/2209.13801)] 
 
 ### 2023
 - [survey] RGB-T image analysis technology and application: A survey, Engineering Applications of Artificial Intelligence, Kechen Song et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0952197623001033)] 
