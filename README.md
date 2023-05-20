@@ -166,6 +166,23 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 ### 2023
 - [survey] RGB-T image analysis technology and application: A survey, Engineering Applications of Artificial Intelligence, Kechen Song et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0952197623001033)] 
+- [survey] Visible-infrared cross-modal pedestrian detection: a summary, Qian Bie et al. [[PDF](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=220670&flag=1)] 
+- HAFNet: Hierarchical Attentive Fusion Network for Multispectral Pedestrian Detection,  Remote Sensing, Peiran Peng et al. [[PDF](https://www.mdpi.com/2072-4292/15/8/2041)] 
+- Local Adaptive Illumination-Driven Input-Level Fusion for Infrared and Visible Object Detection,  Remote Sensing, Jiawen Wu et al. [[PDF](https://www.mdpi.com/2072-4292/15/3/660)] 
+- Multiscale Cross-modal Homogeneity Enhancement and Confidence-aware Fusion for Multispectral Pedestrian Detection, IEEE Transactions on Multimedia, Ruimin Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10114594)] 
+- Transformer fusion and histogram layer multispectral pedestrian detection network,  Signal, Image and Video Processing, Ying Zang et al. [[PDF](https://link.springer.com/article/10.1007/s11760-023-02579-y)]  
+- DaCFN: divide-and-conquer fusion network for RGB-T object detection, International Journal of Machine Learning and Cybernetics, Bofan Wang et al. [[PDF](https://link.springer.com/article/10.1007/s13042-022-01771-9)]  
+- Cross-modality complementary information fusion for multispectral pedestrian detection, Neural Computing and Applications, Chaoqi Yan et al. [[PDF](https://link.springer.com/article/10.1007/s00521-023-08239-z)] 
+- IGT: Illumination-guided RGB-T object detection with transformers, Knowledge-Based Systems, Keyu Chen et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705123001739)]  
+- Learning to measure infrared properties of street views from visible images, Measurement, Lei Wang et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0263224122015160)]  
+- Multispectral Pedestrian Detection via Reference Box Constrained CrossAttention and Modality Balanced Optimization, Yinghui Xing et al. [[PDF](https://arxiv.org/pdf/2302.00290.pdf)]  
+- Cascaded information enhancement andcross-modal attention feature fusion formultispectral pedestrian detection, Yang Yang et al. [[PDF](https://arxiv.org/pdf/2302.08670.pdf)]  
+- Cross-Modality Attention and Multimodal Fusion Transformer for Pedestrian Detection, ECCV 2022 Workshops, Wei-Yu Lee et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_41)]  
+- REVISITING MODALITY IMBALANCE IN MULTIMODAL PEDESTRIAN DETECTION, Arindam Das et al. [[PDF](https://arxiv.org/pdf/2302.12589.pdf)]  
+- Illumination-Guided RGBT Object Detection With Inter- and Intra-Modality Fusion, IEEE Transactions on Instrumentation and Measurement, Yan Zhang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10057437)]  
+- MCANet: Multiscale Cross-Modality Attention Network for Multispectral Pedestrian Detection,  MultiMedia Modeling, Xiaotian Wang et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_4)]  
+- Multi-modal pedestrian detection with misalignment based on modal-wise regression and multi-modal IoU, Journal of Electronic Imaging, Napat Wanchaitanawong et al. [[PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-32/issue-1/013025/Multi-modal-pedestrian-detection-with-misalignment-based-on-modal-wise/10.1117/1.JEI.32.1.013025.full?SSO=1)]  
+
 
 ---
 ## Improved KAIST Annotations
