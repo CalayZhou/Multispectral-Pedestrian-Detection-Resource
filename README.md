@@ -184,6 +184,9 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - Multi-modal pedestrian detection with misalignment based on modal-wise regression and multi-modal IoU, Journal of Electronic Imaging, Napat Wanchaitanawong et al. [[PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-32/issue-1/013025/Multi-modal-pedestrian-detection-with-misalignment-based-on-modal-wise/10.1117/1.JEI.32.1.013025.full?SSO=1)]  
 
 
+### 2024
+- Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF]([https://link.springer.com/chapter/10.1007/978-3-031-27077-2_4](https://arxiv.org/pdf/2403.01300.pdf))]  
+
 ---
 ## Improved KAIST Annotations
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
