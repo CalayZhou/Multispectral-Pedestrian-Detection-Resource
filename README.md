@@ -185,7 +185,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 
 ### 2024
-- Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF](https://arxiv.org/pdf/2403.01300.pdf))]  
+- Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF](https://arxiv.org/pdf/2403.01300.pdf))] [[code](https://github.com/ssbin0914/Causal-Mode-Multiplexer)]  
 
 ---
 ## Improved KAIST Annotations
