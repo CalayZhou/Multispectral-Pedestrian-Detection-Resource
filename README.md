@@ -187,6 +187,10 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 ### 2024
 - Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF](https://arxiv.org/pdf/2403.01300.pdf))] [[code](https://github.com/ssbin0914/Causal-Mode-Multiplexer)]  
 
+- HalluciDet: Hallucinating RGB Modality for Person Detection Through Privileged Information, WACV 2024, Medeiros, Heitor Rapela, et al. [[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Medeiros_HalluciDet_Hallucinating_RGB_Modality_for_Person_Detection_Through_Privileged_Information_WACV_2024_paper.html)] [[code]([https://github.com/ssbin0914/Causal-Mode-Multiplexer](https://github.com/heitorrapela/HalluciDet)]
+
+- MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection, ARXIV2024/UnderReview, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/abs/2404.18849)] [[code](https://github.com/heitorrapela/MiPa)]  
+
 ---
 ## Improved KAIST Annotations
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
