@@ -191,7 +191,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection, ARXIV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/abs/2404.18849)] [[code](https://github.com/heitorrapela/MiPa)]  
 
--Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/pdf/2404.01492)] [[code](https://github.com/heitorrapela/ModTr)]
+- Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/pdf/2404.01492)] [[code](https://github.com/heitorrapela/ModTr)]
 
 
 ---
