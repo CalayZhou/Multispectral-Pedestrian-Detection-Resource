@@ -189,7 +189,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - HalluciDet: Hallucinating RGB Modality for Person Detection Through Privileged Information, WACV 2024, Medeiros, Heitor Rapela, et al. [[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Medeiros_HalluciDet_Hallucinating_RGB_Modality_for_Person_Detection_Through_Privileged_Information_WACV_2024_paper.html)] [[code](https://github.com/heitorrapela/HalluciDet)]
 
-- MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/abs/2404.18849)] [[code](https://github.com/heitorrapela/MiPa)]  
+- MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection, ARXIV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/abs/2404.18849)] [[code](https://github.com/heitorrapela/MiPa)]  
 
 ---
 ## Improved KAIST Annotations
