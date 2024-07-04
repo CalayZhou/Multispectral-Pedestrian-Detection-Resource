@@ -193,7 +193,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 -Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/pdf/2404.01492)] [[code](https://github.com/heitorrapela/ModTr)]
 
-- 
+
 ---
 ## Improved KAIST Annotations
  - Improved KAIST Testing Annotations provided by Liu et al.[Link to download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
