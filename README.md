@@ -193,7 +193,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/pdf/2404.01492)] [[code](https://github.com/heitorrapela/ModTr)]
 
-- When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset, ECCV 2024, Yi Zhang et al.  [[PDF]([https://arxiv.org/pdf/2404.01492](https://arxiv.org/abs/2407.10125))] [[code](https://github.com/BubblyYi/MMPedestron)]
+- When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset, ECCV 2024, Yi Zhang et al.  [[PDF](https://arxiv.org/abs/2407.10125)] [[code](https://github.com/BubblyYi/MMPedestron)]
 
 
 ---
