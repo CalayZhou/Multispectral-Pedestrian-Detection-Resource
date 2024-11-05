@@ -194,7 +194,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/pdf/2404.01492)] [[code](https://github.com/heitorrapela/ModTr)]
 
 - When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset, ECCV 2024, Yi Zhang et al.  [[PDF](https://arxiv.org/abs/2407.10125)] [[code](https://github.com/BubblyYi/MMPedestron)]
-- Damsdet: Dynamic adaptive multispectral detection transformer with competitive query selection and adaptive feature fusion, ECCV 2024, Junjie Guo et al.  [[PDF]([https://arxiv.org/abs/2407.10125] [[code](https://github.com/gjj45/DAMSDet)]
+- Damsdet: Dynamic adaptive multispectral detection transformer with competitive query selection and adaptive feature fusion, ECCV 2024, Junjie Guo et al.  [[PDF](https://arxiv.org/abs/2407.10125)] [[code](https://github.com/gjj45/DAMSDet)]
 
 ---
 ## Improved KAIST Annotations
