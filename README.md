@@ -259,7 +259,7 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 
 **New Dataset**
 - AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection, Arxiv, Zizhao Chen, et al.  [[PDF](https://arxiv.org/abs/2405.12944)] [[code](https://github.com/bigD233/AMFD)]  
-- 
+  
 **Few Shot**
 - Cross-modality interaction for few-shot multispectral object detection with semantic knowledge, Neural Networks, 2024, Lian Huang, et al.  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608024000807)]
 
