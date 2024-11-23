@@ -182,7 +182,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - Illumination-Guided RGBT Object Detection With Inter- and Intra-Modality Fusion, IEEE Transactions on Instrumentation and Measurement, Yan Zhang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10057437)]  
 - MCANet: Multiscale Cross-Modality Attention Network for Multispectral Pedestrian Detection,  MultiMedia Modeling, Xiaotian Wang et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_4)]  
 - Multi-modal pedestrian detection with misalignment based on modal-wise regression and multi-modal IoU, Journal of Electronic Imaging, Napat Wanchaitanawong et al. [[PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-32/issue-1/013025/Multi-modal-pedestrian-detection-with-misalignment-based-on-modal-wise/10.1117/1.JEI.32.1.013025.full?SSO=1)]  
-- [survey] Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges, Thangarajah Akilan et al. [[PDF]([http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=220670&flag=1](https://arxiv.org/abs/2311.08557))] 
+- [survey] Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges, Thangarajah Akilan et al. [[PDF](https://arxiv.org/abs/2311.08557)] 
 
 ### 2024
 - Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF](https://arxiv.org/pdf/2403.01300.pdf))] [[code](https://github.com/ssbin0914/Causal-Mode-Multiplexer)]  
