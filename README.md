@@ -13,6 +13,12 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/): This dataset contains 30976 images, or 15488 pairs, most of which were taken at very dark scenes, and all of the images are strictly aligned in time and space. Pedestrians in the dataset are labeled. We compare the dataset with other visible-infrared datasets and evaluate the performance of some popular visual algorithms including image fusion, pedestrian detection and image-to-image translation on the dataset.
 
 - [Autonomous Vehicles dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/): A novel multispectral dataset was generated for autonomous vehicles that consists of RGB, NIR, MIR, and FIR images, which prepared 7,512 images in total (3,740 taken at daytime and 3,772 taken at nighttime).
+
+
+- [SMOD dataset](https://github.com/bigD233/AMFD.git): SJTU Multispectral Object Detection (SMOD). Within this dataset, 8042 pedestrians, 10478 riders, 6501 bicycles, and 6422 cars are annotated. The degree of occlusion of all objects is meticulously annotated. The dataset with low sampling rate has dense rider and pedestrian objects and contains rich illumination variations in its 3298 pairs of images of night scenarios.
+
+
+
 ---
 ## Methods
 
@@ -184,17 +190,79 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - Multi-modal pedestrian detection with misalignment based on modal-wise regression and multi-modal IoU, Journal of Electronic Imaging, Napat Wanchaitanawong et al. [[PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-32/issue-1/013025/Multi-modal-pedestrian-detection-with-misalignment-based-on-modal-wise/10.1117/1.JEI.32.1.013025.full?SSO=1)]  
 - [survey] Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges, Thangarajah Akilan et al. [[PDF](https://arxiv.org/abs/2311.08557)] 
 
+
 ### 2024
+**Modality Bias**
 - Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF](https://arxiv.org/pdf/2403.01300.pdf))] [[code](https://github.com/ssbin0914/Causal-Mode-Multiplexer)]  
+
+**Misalignment**
+- Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection, CVPR 2024, Chen Chen, et al. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.pdf)]
+- CF-Deformable DETR: An End-to-End Alignment-Free Model for Weakly Aligned Visible-Infrared Object Detection IJCAI 2024, Haolong Fu, et al.  [[PDF](https://www.ijcai.org/proceedings/2024/0084.pdf)] [[code](https://github.com/116508/CF-Deformable-DETR)]  
+
+
+**Modality Translation**
 
 - HalluciDet: Hallucinating RGB Modality for Person Detection Through Privileged Information, WACV 2024, Medeiros, Heitor Rapela, et al. [[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Medeiros_HalluciDet_Hallucinating_RGB_Modality_for_Person_Detection_Through_Privileged_Information_WACV_2024_paper.html)] [[code](https://github.com/heitorrapela/HalluciDet)]
 
-- MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection, ARXIV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/abs/2404.18849)] [[code](https://github.com/heitorrapela/MiPa)]  
 
 - Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge, ECCV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/pdf/2404.01492)] [[code](https://github.com/heitorrapela/ModTr)]
 
+- TIRDet: Mono-Modality Thermal InfraRed Object Detection Based on Prior Thermal-To-Visible Translation, ACMM, Zeyu Wang, et al. [[PDF](https://dl.acm.org/doi/10.1145/3581783.3613849)] [[code](https://github.com/zeyuwang-zju/TIRDet)]
+
+
+**Generalist Model**
 - When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset, ECCV 2024, Yi Zhang et al.  [[PDF](https://arxiv.org/abs/2407.10125)] [[code](https://github.com/BubblyYi/MMPedestron)]
-- Damsdet: Dynamic adaptive multispectral detection transformer with competitive query selection and adaptive feature fusion, ECCV 2024, Junjie Guo et al.  [[PDF](https://arxiv.org/abs/2407.10125)] [[code](https://github.com/gjj45/DAMSDet)]
+
+- UniRGB-IR: A Unified Framework for RGB-Infrared Semantic Tasks via Adapter Tuning, Maoxun Yuan et al.  [[PDF](https://arxiv.org/abs/2404.17360)] [[code](https://github.com/PoTsui99/UniRGB-IR)]
+
+
+**Fusion Architecture**
+- Fusion-Mamba for Cross-modality Object Detection, Arxiv, Wenhao Dong et al. [[PDF](https://arxiv.org/pdf/2404.09146)]
+
+
+- MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection, Arxiv, Xiangbo Gao et al. [[PDF](https://arxiv.org/pdf/2408.01037)] [[code](https://github.com/XiangboGaoBarry/MambaST)]
+
+- ICAFusion: Iterative cross-attention guided feature fusion for multispectral object detection, Pattern Recognition, Jifeng Shen et al. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006118)] [[code](https://github.com/chanchanchan97/ICAFusion)]
+
+- CrossFormer: : Cross-guided attention for multi-modal object detection, Pattern Recognition Letters, Seungik Lee et al. [[PDF](https://dl.acm.org/doi/10.1016/j.patrec.2024.02.012)] 
+
+- Damsdet: Dynamic adaptive multispectral detection transformer with competitive query selection and adaptive feature fusion, ECCV 2024, Junjie Guo et al.  [[PDF](https://arxiv.org/pdf/2403.00326)] [[code](https://github.com/gjj45/DAMSDet)]
+
+
+
+- MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection, ARXIV 2024, Medeiros, Heitor Rapela, et al.  [[PDF](https://arxiv.org/abs/2404.18849)] [[code](https://github.com/heitorrapela/MiPa)]  
+
+- Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection, Arxiv, Tianyi Zhao et al. [[PDF](https://arxiv.org/pdf/2401.10731)] [[code](https://github.com/Zhao-Tian-yi/RSDet)]
+
+
+-  Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection, IEEE Transactions on Intelligent Vehicles, 2024, Xue Zhang, et al.  [[PDF](https://ieeexplore.ieee.org/document/10681477)] [[code](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection)] 
+
+
+- RGB-X Object Detection via Scene-Specific Fusion Modules, WACV 2024, Sri Aditya Deevi, et al.  [[PDF](https://github.com/dsriaditya999/RGBXFusion)][[code](https://github.com/dsriaditya999/RGBXFusion)] 
+
+- Rethinking Self-Attention for Multispectral Object Detection, IEEE Transactions on Intelligent Transportation Systems, 2024, Sijie Hu, et al.  [[PDF](https://ieeexplore.ieee.org/document/10565297)][[code](https://github.com/Superjie13/CPCF_Multispectral)] 
+
+- TFDet: Target-Aware Fusion for RGB-T Pedestrian Detection, 2024, Xue Zhang, et al.  [[PDF](https://ieeexplore.ieee.org/document/10645696)][[code](https://github.com/xuez-phd/tfdet)] 
+
+- Multidimensional Fusion Network for Multispectral Object Detection, IEEE Transactions on Circuits and Systems for Video Technology, 2024, Fan Yang, et al.  [[PDF](https://ieeexplore.ieee.org/document/10666754)]
+
+- FoRA: Low-Rank Adaptation Model beyond Multimodal Siamese Network,Arxiv, Weiying Xie, et al.  [[PDF](https://arxiv.org/abs/2407.16129)]
+
+
+**DETR**
+- GM-DETR: Generalized Muiltispectral DEtection TRansformer with Efficient Fusion Encoder for Visible-Infrared Detection, Yiming Xiao, et al.  [[PDF](https://openaccess.thecvf.com/content/CVPR2024W/JRDB/papers/Xiao_GM-DETR_Generalized_Muiltispectral_DEtection_TRansformer_with_Efficient_Fusion_Encoder_for_CVPRW_2024_paper.pdf)][[code](https://github.com/yiming-shaw/GM-DETR)] 
+
+- DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection, 
+Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
+
+- MS-DETR: Multispectral Pedestrian Detection Transformer with Loosely Coupled Fusion and Modality-Balanced Optimization, IEEE Transactions on Intelligent Transportation Systems 2024, Yinghui Xing, et al.  [[PDF](https://arxiv.org/abs/2302.00290v1)] [[code](https://github.com/YinghuiXing/MS-DETR)]  
+
+**New Dataset**
+- AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection, Arxiv, Zizhao Chen, et al.  [[PDF](https://arxiv.org/abs/2405.12944)] [[code](https://github.com/bigD233/AMFD)]  
+- 
+**Few Shot**
+- Cross-modality interaction for few-shot multispectral object detection with semantic knowledge, Neural Networks, 2024, Lian Huang, et al.  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608024000807)]
+
 
 ---
 ## Improved KAIST Annotations
