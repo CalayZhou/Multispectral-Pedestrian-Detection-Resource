@@ -192,6 +192,9 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 
 ### 2024
+**Survey**
+- Surveying You Only Look Once (YOLO) Multispectral Object Detection Advancements, Applications And Challenges, James E. Gallagher et al. [[PDF](https://arxiv.org/abs/2409.12977)]
+
 **Modality Bias**
 - Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection, CVPR 2024, Taeheon Kim et al.  [[PDF](https://arxiv.org/pdf/2403.01300.pdf))] [[code](https://github.com/ssbin0914/Causal-Mode-Multiplexer)]  
 
