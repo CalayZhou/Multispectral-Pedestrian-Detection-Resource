@@ -289,7 +289,7 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 - Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining,CVPR 2025,Yuxuan Li et al.[[PDF](https://arxiv.org/pdf/2603.01758)][[code](github.com/zcablii/SM3Det)]
 
 **Fusion Architecture**
-- MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image,CVPR 2025,Leiyu Wang et al.[[PDF]https://arxiv.org/pdf/2509.16957][[code](https://github.com/Iwill-github/MORCNN)]
+- MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image,CVPR 2025,Leiyu Wang et al.[[PDF](https://arxiv.org/pdf/2509.16957)][[code](https://github.com/Iwill-github/MORCNN)]
 - Cross-modal Offset-guided Dynamic Alignment and Fusion for Weakly Aligned UAV Object Detection,CVPR 2025,Liu Zongzhen et al.[[PDF](https://arxiv.org/pdf/2506.16737)]
 - FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection,Ke Li at al.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32507/34662)]
 - COMO: Cross-mamba interaction and offset-guided fusion for multimodal object detection,Information Fusion,Chang Liu et al.[[PDF](https://arxiv.org/pdf/2412.18076?)][[code](https://github.com/luluyuu/COMO)]
@@ -301,6 +301,13 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 - EI2Det: Edge-Guided Illumination-Aware Interactive Learning for Visible-Infrared Object Detection, IEEE Transactions on Circuits and Systems for Video Technology 2025,Ke Hu et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877920)]
 - SLGNet: Synergizing Structural Priors and Language-Guided Modulation for Multimodal Object Detection,CVPR 2026,Xiantai Xiang et al.[[PDF](https://arxiv.org/pdf/2601.02249)]
 - IRDFusion: Iterative relation-map difference guided feature fusion for multispectral object detection,Pattern Recognition,Jifeng Shen et al.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326001548/pdfft?md5=bc7ad5ef46894092fef4e3cf6d99b2de&pid=1-s2.0-S0031320326001548-main.pdf)][[code](https://github.com/61s61min/IRDFusion.git)]
+
+**New Dataset**
+- Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines, IEEE Transactions on Pattern Analysis and Machine Intelligence 2025,Xinyi Ying et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10914515)]
+- Fusion Meets Diverse Conditions: A High-diversity Benchmark and Baseline for UAV-based Multimodal Object Detection with Condition Cues,ICCV 2025,Chen Chen et al.[[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Fusion_Meets_Diverse_Conditions_A_High-diversity_Benchmark_and_Baseline_for_ICCV_2025_paper.pdf)]
+
+**Knowledge Distillation**
+- AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection,IEEE Transactions on Multimedia 2025,Zizhao Chen et al.[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11146667)]
 ---
 
 
