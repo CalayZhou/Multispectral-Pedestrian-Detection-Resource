@@ -270,6 +270,10 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 **Survey**
 - Low-light multimodal object detection: A survey, Applications And Challenges, Gang Li et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1574013725000802)]
 - Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization, ICCV 2025,Xu Zheng et al. [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Reducing_Unimodal_Bias_in_Multi-Modal_Semantic_Segmentation_with_Multi-Scale_Functional_ICCV_2025_paper.pdf)]
+
+**Modality Bias**
+- Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature_ICCV_2025_paper.pdf)]
+
 ---
 
 
