@@ -274,6 +274,15 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 **Modality Bias**
 - Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature_ICCV_2025_paper.pdf)]
 
+**Misalignment**
+- COMO: Cross-mamba interaction and offset-guided fusion for multimodal object detection, Information Fusion, Chang Liu et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525004877)][[code](https://github.com/luluyuu/COMO)]
+- Harmonized Domain Enabled Alternate Search for Infrared and Visible Image Alignment, IEEE Transactions on Image Processing 2025,Zhiying Jiang et al.[[PDF](https://ieeexplore.ieee.org/abstract/document/11165037)][[code](https://github.com/Jzy2017/HR4IR)]
+- Deformable Cross-Attention Transformer for Weakly Aligned RGB–T Pedestrian Detection, IEEE Transactions on Multimedia 2025,Yu Hu et al.[[PDF](https://ieeexplore.ieee.org/abstract/document/10891492)]
+- Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection,CVPR 2025,Yan Zhang et al.[[PDF](https://arxiv.org/pdf/2502.09311)]
+- Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection,CVPR 2025,Wentao Wu et al.[[PDF](https://arxiv.org/pdf/2503.06948)]
+
+
+
 ---
 
 
