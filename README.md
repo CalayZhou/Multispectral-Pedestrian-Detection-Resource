@@ -281,7 +281,14 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 - Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection,CVPR 2025,Yan Zhang et al.[[PDF](https://arxiv.org/pdf/2502.09311)]
 - Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection,CVPR 2025,Wentao Wu et al.[[PDF](https://arxiv.org/pdf/2503.06948)]
 
+**Modality Translation**
+- Complementarity-Aware Feature Fusion for Aircraft Detection via Unpaired Opt2SAR Image Translation,IEEE Transactions on Geoscience and Remote Sensing 2025,Jianming Hu et al.[[PDF](https://ieeexplore.ieee.org/abstract/document/11036138)][[code](https://github.com/JimmyRSlab/Complementarity-aware-Feature-Fusion-for-Aircraft-Detection-via-Unpaired-Opt2SAR-Image-Translation)]
 
+**Generalist Model**
+- M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision,ICCV 2025,Kailai Zhou et al.[[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_M-SpecGene_Generalized_Foundation_Model_for_RGBT_Multispectral_Vision_ICCV_2025_paper.pdf)][[code](https://github.com/ CalayZhou/M-SpecGene)]
+- Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining,CVPR 2025,Yuxuan Li et al.[[PDF](https://arxiv.org/pdf/2603.01758)][[code](github.com/zcablii/SM3Det)]
+
+**Fusion Architecture**
 
 ---
 
