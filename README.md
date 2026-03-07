@@ -266,6 +266,9 @@ Junjie Guo, et al.  [[PDF](https://arxiv.org/abs/2408.06123)]
 **Few Shot**
 - Cross-modality interaction for few-shot multispectral object detection with semantic knowledge, Neural Networks, 2024, Lian Huang, et al.  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608024000807)]
 
+### 2024
+**Survey**
+- Low-light multimodal object detection: A survey, Applications And Challenges, Gang Li et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1574013725000802)]
 
 ---
 ## Improved KAIST Annotations
